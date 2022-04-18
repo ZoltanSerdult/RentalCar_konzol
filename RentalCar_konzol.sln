@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalCar_konzol", "RentalCar_konzol\RentalCar_konzol.csproj", "{E7581543-0D38-4D54-8639-D5672F791090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7581543-0D38-4D54-8639-D5672F791090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7581543-0D38-4D54-8639-D5672F791090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7581543-0D38-4D54-8639-D5672F791090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7581543-0D38-4D54-8639-D5672F791090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0AF02B1-3188-42CD-A3B5-232098B44E1E}
+	EndGlobalSection
+EndGlobal
